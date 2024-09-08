@@ -4,7 +4,7 @@ A tampermonkey script for removing some of the pains of Canvas LMS file manageme
 # Features
 - 1 click download all files in current Canvas directory
 
-# Canvas Download All
+## Canvas Download All
 To download all files from a given directory, navigate to it on Canvas. With the tampermonkey script enabled, a **Download** button should appear in the top right corner:
 
 ![image](https://github.com/user-attachments/assets/b84a5ede-e317-4ce4-a801-21a9be56d844)
