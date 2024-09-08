@@ -13,5 +13,5 @@ All files will now start automatically downloading. By default, files will be st
 
 # Installation
 1. Install Tampermonkey ([Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/))
-2. View the raw extension file [here]() (or navigate to it on the repository, and hit **Raw**). TamperMonkey should autodetect this as a script and prompt to install.
+2. View the raw extension file [here](https://raw.githubusercontent.com/UZ9/BetterCanvasFiles/main/BetterCanvasFiles.user.js) (or navigate to it on the repository, and hit **Raw**). TamperMonkey should autodetect this as a script and prompt to install.
 
