@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         BetterCanvasFiles
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/UZ9/BetterCanvasFiles/
 // @version      2024-09-08
-// @description  try to take over the world!
+// @description  Script for removing some of the pains of Canvas LMS file management.
 // @author       Ryder (Yerti)
 // @match        https://*.instructure.com/courses/**/files/**
 // @match        https://*.instructure.com/courses/**/files
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        GM_download
+// @downloadURL  https://raw.githubusercontent.com/UZ9/BetterCanvasFiles/main/BetterCanvasFiles.user.js
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
 // ==/UserScript==
 
